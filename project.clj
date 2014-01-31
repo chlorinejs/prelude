@@ -1,5 +1,5 @@
 (defproject chlorine/prelude "0.1.0-SNAPSHOT"
-  :description "Chlorine prelude to compile cl2 source faster"
+  :description "Chlorine prelude to compile core-cl2 strategies in advance."
   :url "http://github.com/chlorinejs/prelude"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}

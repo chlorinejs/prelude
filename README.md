@@ -1,6 +1,6 @@
 # chlorine.prelude
 
-Chlorine prelude to compile cl2 source faster.
+Chlorine prelude to compile core-cl2 strategies in advance.
 
 ## Usage
 
